@@ -450,7 +450,9 @@ body {
 #home {
     height: 100vh;
 }
-
+#home-proj {
+    height: 30vh;
+}
 .home-bg {
     position: relative;
     width: 100%;
